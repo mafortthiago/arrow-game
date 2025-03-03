@@ -1,0 +1,13 @@
+output {
+  background-color: #2e613b;
+  padding: 1rem;
+  border-radius: 0 0 0.2rem 0.2rem;
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
